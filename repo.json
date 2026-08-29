@@ -1,0 +1,8 @@
+{
+  "name": "DeFE",
+  "description": "downloadeverythingfromeverywhere.com — CloudStream meta-search extension",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/kgicao29-ux/DeFE/builds/plugins.json"
+  ]
+}
