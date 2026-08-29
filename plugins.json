@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://downloadeverythingfromeverywhere.com/icon-192.png",
-        "fileHash": "sha256-4a81c8a83755dc0c30a3764e67088dd90cdd6c066bf06d09a4ad58cfbb857215",
+        "fileHash": "sha256-f6c2d1d5aaf59f315919f7289dfb61355c6d17467cc00b29b5aae062f53739dc",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/kgicao29-ux/DeFE",
-        "fileSize": 48260,
+        "fileSize": 48284,
         "status": 1,
         "language": "en",
         "authors": [
@@ -14,9 +14,9 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "DeFE",
-        "description": "DeFE (downloadeverythingfromeverywhere.com) — meta-search movies, TV & anime across 24 source sites; direct WEB-DL/BluRay mkv/mp4 download links.",
+        "description": "DeFE (downloadeverythingfromeverywhere.com) — meta-search for movies, TV & anime. Fans out to 24 source sites and returns direct WEB-DL/BluRay download links (mkv/mp4).",
         "url": "https://raw.githubusercontent.com/kgicao29-ux/DeFE/builds/DeFE.cs3",
         "name": "DeFE"
     }
